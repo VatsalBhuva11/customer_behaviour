@@ -1,6 +1,7 @@
 # customer_behaviour
 - This project is an application of Logistic Regression to assess the behaviour of customers and determine whether a customer is likely to buy a given product or not depending upon several features of the customer such as Gender, Age, and Estimated Salary
 - Done as a Major Project under Teachnook
+- Ensure that the "Customer_Behaviour.csv" file is in the same folder as "Customer_Behaviour.ipynb"
 - Credits to Denisa Dutca for the access to their Dataset ("https://www.kaggle.com/datasets/denisadutca/customer-behaviour")
 
 ---
